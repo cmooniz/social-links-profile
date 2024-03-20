@@ -10,5 +10,5 @@ Desafio Frontend Mentor - Newbie
 <img src="https://img.shields.io/badge/Tecnologias Utilizadas-5c5c5c.svg?style=for-the-badge&">
 <div>
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF6842">
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=html5&logoColor=60D1EA">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=60D1EA">
 </div>
